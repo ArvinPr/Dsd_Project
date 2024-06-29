@@ -45,15 +45,19 @@
 
 
 جمع :
+
 ![Screenshot (39)](https://github.com/ArvinPr/Dsd_Project/assets/119720596/d3e8f430-bb0f-430d-9fa9-52c8fe9b48a3)
 
 
 ضرب :
+
 ![Screenshot (40)](https://github.com/ArvinPr/Dsd_Project/assets/119720596/d4f5e292-0eaf-4d02-bab4-3ce670f5461c)
 
 
 استور و لود :
+
 ![Screenshot (41)](https://github.com/ArvinPr/Dsd_Project/assets/119720596/104d352f-4750-40c5-b447-a0a871568d74)
+
 ![Screenshot (42)](https://github.com/ArvinPr/Dsd_Project/assets/119720596/12314b44-8b5c-40fb-87ed-742608d34a45)
 
 
