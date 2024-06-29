@@ -1,0 +1,297 @@
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of TestBench.v was successful.
+# 6 compiles, 1 failed with 4 errors. 
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of Proccesor.v failed with 4 errors.
+# Compile of Proccesor.v was successful.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+# Compile of TestBench.v was successful.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Proccesor
+# Loading work.AlU
+# Loading work.Memory
+# Loading work.RegisterFile
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/TestBench.v(8): Port 'clock' not found in the connected module (2nd connection).
+# 
+#         Region: /TB/Proccesor
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/TestBench.v(8): Port 'wire1' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/TestBench.v(8): Port 'wire2' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/TestBench.v(8): Port 'wire3' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/TestBench.v(8): Port 'wire4' not found in the connected module (7th connection).
+# 
+#         Region: /TB/Proccesor
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'clk' not found in the connected module (1st connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'address' not found in the connected module (3rd connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_enable' not found in the connected module (4th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'write_data' not found in the connected module (5th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# ** Error: (vsim-3063) C:/Users/emran/Desktop/project/Proccesor.v(16): Port 'read_data' not found in the connected module (6th connection).
+# 
+#         Region: /TB/Proccesor/memory
+# Error loading design
+#  Trace back: can't use empty string as operand of "+"
+#     while executing
+# "expr {[lindex [$win bbox cBegin] 1] + [winfo rooty $win]}"
+#     (procedure "Transcript::CmdCompletion" line 43)
+#     invoked from within
+# "Transcript::CmdCompletion $w [$w get cBegin insert]"
+#     (procedure "Transcript::KeyPress" line 24)
+#     invoked from within
+# "Transcript::KeyPress .main_pane.transcript.interior.cs.body.t {} Alt_L "
+#     (command bound to event) 
+#    <2: ::tkerror {can't use empty string as operand of "+"} 
+#    <1: ::bgerror {can't use empty string as operand of "+"} 
+#  Trace back: can't use empty string as operand of "+"
+#     while executing
+# "expr {[lindex [$win bbox cBegin] 1] + [winfo rooty $win]}"
+#     (procedure "Transcript::CmdCompletion" line 43)
+#     invoked from within
+# "Transcript::CmdCompletion $w [$w get cBegin insert]"
+#     (procedure "Transcript::KeyPress" line 24)
+#     invoked from within
+# "Transcript::KeyPress .main_pane.transcript.interior.cs.body.t {} Alt_L "
+#     (command bound to event) 
+#    <2: ::tkerror {can't use empty string as operand of "+"} 
+#    <1: ::bgerror {can't use empty string as operand of "+"} 
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Loading work.TB
+# Loading work.Processor
+# Loading work.ArithmeticLogicUnit
+# Loading work.RegFile
+# Loading work.Memory
+add wave -position insertpoint sim:/TB/*
+run -all
+# Break in Module TB at C:/Users/emran/Desktop/project/TestBench.v line 23
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+run -all
+restart
+# Loading work.TB
+# Loading work.Processor
+# Loading work.ArithmeticLogicUnit
+# Loading work.RegFile
+# Loading work.Memory
+run -all
+# Break in Module TB at C:/Users/emran/Desktop/project/TestBench.v line 23
+# Compile of DFF.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Memory.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of Proccesor.v was successful.
+# Compile of TestBench.v was successful.
+# 6 compiles, 0 failed with no errors. 
+restart
+# Loading work.TB
+# Loading work.Processor
+# Loading work.ArithmeticLogicUnit
+# Loading work.RegFile
+# Loading work.Memory
+run -all
+# Break in Module TB at C:/Users/emran/Desktop/project/TestBench.v line 23
